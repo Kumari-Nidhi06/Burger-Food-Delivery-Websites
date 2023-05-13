@@ -1,2 +1,2 @@
 # Burger-Food-Delivery-Websites
-Burger-Food-Delivery-Websites using HTML, CSS, JS, Reactjs
+Burger-Food-Delivery-Website using HTML, CSS, JS, Reactjs
